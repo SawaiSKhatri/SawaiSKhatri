@@ -5,6 +5,7 @@ I'm **Sawai Khatri**, currently pursuing my **Master of Computer Applications (M
 I'm interested in cybersecurity, backend development, and building secure applications. I enjoy learning new technologies and continuously improving my programming and problem-solving skills.
 
 ### 🌱 Currently Learning
+
 - Java & Spring Boot
 - Data Structures & Algorithms
 - Backend Development
@@ -14,6 +15,7 @@ I'm interested in cybersecurity, backend development, and building secure applic
 ### 🛠️ Tech Stack
 
 **Languages**
+
 - Java
 - Python
 - JavaScript
@@ -22,15 +24,18 @@ I'm interested in cybersecurity, backend development, and building secure applic
 - SQL
 
 **Frameworks & Technologies**
+
 - JDBC
 - Servlets
 - Spring Boot (Learning)
 
 **Databases**
+
 - MySQL
 - SQLite
 
 **Tools**
+
 - Git
 - GitHub
 - VS Code
@@ -39,14 +44,16 @@ I'm interested in cybersecurity, backend development, and building secure applic
 - Kali Linux
 
 ### 🎯 Current Goals
+
 - Build real-world backend projects
 - Strengthen my cybersecurity knowledge
 - Improve my problem-solving skills
 - Contribute to open-source projects
 
 ### 📫 Connect with Me
-- LinkedIn: *(Add your LinkedIn profile)*
-- Email: *(Add your email address)*
+
+- 💼 LinkedIn: [Sawai Khatri](https://www.linkedin.com/in/sawaikhatri)
+- 📧 Email: khatrisawai275@gmail.com
 
 ---
 
